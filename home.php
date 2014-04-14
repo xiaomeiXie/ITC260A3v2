@@ -35,13 +35,7 @@ td {
     padding: 0.15em 1em 0.15em 0em;
     border: inherit;
 }
-.cellcolor
-{
-    background-color:#fbcccc;
-}
-tr.pager td {
-    padding: inherit;
-}
+
 
 </style>
 <?php  // session_start(); 
